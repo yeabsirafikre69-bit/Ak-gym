@@ -1,0 +1,6 @@
+{
+  "name": "AK GYM 26 - Elite Strength & Performance",
+  "description": "Premier fitness facility offering CrossFit, group classes, personal training, and 30-day challenges. Check class schedules, membership plans, and book free sessions with @akgym26.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
